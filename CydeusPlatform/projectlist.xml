@@ -1,0 +1,15 @@
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <DSPROJECT>
+    <D_Project diffgr:id="D_Project1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iID>1</iID>
+      <szName>CydeusPlatform</szName>
+      <dtCreateDate>2022-04-11T23:04:27.4175461+07:00</dtCreateDate>
+      <iProjectAttributeID>12</iProjectAttributeID>
+      <bUserManage>false</bUserManage>
+    </D_Project>
+    <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iSupportVersion>1</iSupportVersion>
+      <iCreateVersion>1</iCreateVersion>
+    </D_DBVersion>
+  </DSPROJECT>
+</diffgr:diffgram>

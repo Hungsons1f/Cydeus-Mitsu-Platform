@@ -1,0 +1,152 @@
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <DSPROJECTDATAPROTECTION>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iID>1</iID>
+      <iSecuritylevelID>1</iSecuritylevelID>
+      <iProjectdataID>1</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+      <iID>2</iID>
+      <iSecuritylevelID>2</iSecuritylevelID>
+      <iProjectdataID>1</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+      <iID>3</iID>
+      <iSecuritylevelID>1</iSecuritylevelID>
+      <iProjectdataID>2</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+      <iID>4</iID>
+      <iSecuritylevelID>2</iSecuritylevelID>
+      <iProjectdataID>2</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+      <iID>5</iID>
+      <iSecuritylevelID>1</iSecuritylevelID>
+      <iProjectdataID>3</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+      <iID>6</iID>
+      <iSecuritylevelID>2</iSecuritylevelID>
+      <iProjectdataID>3</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+      <iID>7</iID>
+      <iSecuritylevelID>1</iSecuritylevelID>
+      <iProjectdataID>4</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+      <iID>8</iID>
+      <iSecuritylevelID>2</iSecuritylevelID>
+      <iProjectdataID>4</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+      <iID>9</iID>
+      <iSecuritylevelID>1</iSecuritylevelID>
+      <iProjectdataID>5</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+      <iID>10</iID>
+      <iSecuritylevelID>2</iSecuritylevelID>
+      <iProjectdataID>5</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+      <iID>11</iID>
+      <iSecuritylevelID>1</iSecuritylevelID>
+      <iProjectdataID>6</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+      <iID>12</iID>
+      <iSecuritylevelID>2</iSecuritylevelID>
+      <iProjectdataID>6</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <D_DBVersion diffgr:id="D_DBVersion5" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iSupportVersion>1</iSupportVersion>
+      <iCreateVersion>1</iCreateVersion>
+    </D_DBVersion>
+  </DSPROJECTDATAPROTECTION>
+</diffgr:diffgram>
